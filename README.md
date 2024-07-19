@@ -5,7 +5,7 @@ I'm a proficient tester with a strong foundation in manual and automation testin
 ## Tech Stack 
 
 
-![image](https://github.com/user-attachments/assets/1cf74b43-e8fd-43ea-8b12-95a306d99ffd) , ![image](https://github.com/user-attachments/assets/9a1bf318-6b88-4841-b4aa-b7dd50539b95)
+https://private-user-images.githubusercontent.com/169982342/350342318-1cf74b43-e8fd-43ea-8b12-95a306d99ffd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzODE4NTYsIm5iZiI6MTcyMTM4MTU1NiwicGF0aCI6Ii8xNjk5ODIzNDIvMzUwMzQyMzE4LTFjZjc0YjQzLWU4ZmQtNDNlYS04YjEyLTk1YTMwNmQ5OWZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxOVQwOTMyMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYThmOGZlNWVkZmEzMGY2Y2YzOWVmMTk1MTVjMTAyNzk0NjI3N2Y1Y2QyOWI5YjhjMjIwYzgyNmRhYjlkMGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9-VDJSEnQXBLoh7TZvSon94-1dnbYHsvnhAVTcukVlw , ![image](https://github.com/user-attachments/assets/9a1bf318-6b88-4841-b4aa-b7dd50539b95)
 
 
 
